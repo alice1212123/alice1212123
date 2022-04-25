@@ -1,6 +1,17 @@
-### Hi there 👋
+# What's Up Gamers
 
-- 🔭 I’m currently working on becoming a Web Developer
-- 🌱 I’m currently learning Python, HTML, CSS, Javascript
-- 📫 How to reach me: [Stack Overflow](https://stackoverflow.com/users/17801599/alice), [Steam](https://steamcommunity.com/id/romanian1212123), [Youtube](https://www.youtube.com/channel/UCSYe7g7vYU3ITa7U119Nsbg)
-- 😄 Pronouns: she/her
+My name is Alice but I usually go by alice1212123, Hu Tao, or some other shit online 
+
+# What I'm Working On
+
+doing dumbshit and becoming a web dev
+
+# How To Reach Me
+
+- My [Steam](https://steamcommunity.com/id/romanian1212123)
+
+- My [Youtube](https://www.youtube.com/channel/UCSYe7g7vYU3ITa7U119Nsbg)
+
+- My [Stack Overflow](https://stackoverflow.com/users/17801599/alice)
+
+- My [Reddit](https://www.reddit.com/user/Yoimiya100001/)
