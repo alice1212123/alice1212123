@@ -17,3 +17,6 @@ doing dumbshit and becoming a web dev
 - My [Reddit](https://www.reddit.com/user/Yoimiya100001/)
 
 - My [Gitlab](https://gitlab.com/alice1212123)
+
+- My [Twitter](https://twitter.com/alice1212123)
+
