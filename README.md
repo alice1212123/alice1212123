@@ -1,6 +1,6 @@
 # What's Up Gamers
 
-My name is Alice but I usually go by alice1212123, Hu Tao, or some other shit online 
+I'm alice professional retard from the PNW
 
 # What I'm Working On
 
