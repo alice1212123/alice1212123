@@ -6,6 +6,9 @@ I'm alice professional retard from the PNW
 
 doing dumbshit and becoming a web dev
 
+# Languages I know
+python, swift 
+
 # How To Reach Me
 
 - My [Steam](https://steamcommunity.com/id/romanian1212123)
