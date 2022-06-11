@@ -7,7 +7,7 @@ I'm alice professional retard from the PNW
 doing dumbshit and becoming a web dev
 
 # Languages I know
-python, swift 
+python, swift, fucking visual basic 
 
 # How To Reach Me
 
